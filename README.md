@@ -25,5 +25,5 @@ This project includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/VershalPal/VershalPal_HTML-CSS_Lab1.git
 2. Open 'index.html' in your web browser.
